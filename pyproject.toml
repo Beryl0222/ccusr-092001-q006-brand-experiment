@@ -1,0 +1,4 @@
+[project]
+name = "heritage-brand-experiment"
+version = "0.1.0"
+requires-python = ">=3.11"
